@@ -5,4 +5,4 @@ Results from football analytics project
 
 🛠 Tech Stack
 
-Built with Python, YOLOv5, Kaggle datasets, and OpenCV for real-time computer vision processing.
+Built with Python, YOLOv5, Kaggle datasets, and OpenCV for computer vision processing.
